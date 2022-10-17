@@ -1,0 +1,23 @@
+20221017 17:13:16 INFO  [main] Main Main.java38 - jud@123 Logged-In Successfully
+20221017 17:24:23 INFO  [main] Main Main.java38 - ali@123 Logged-In Successfully
+20221017 17:25:13 INFO  [main] Main Main.java38 - dani@123 Logged-In Successfully
+20221017 17:28:55 INFO  [main] Main Main.java61 - Log-In failed by username as hthtf
+20221017 17:30:01 INFO  [main] Main Main.java66 - Log-In failed by username as ghfdh
+20221017 17:30:05 INFO  [main] Main Main.java66 - Log-In failed by username as yjyu
+20221017 17:30:06 INFO  [main] Main Main.java66 - Log-In failed by username as tnjjty
+20221017 17:30:07 INFO  [main] Main Main.java66 - Log-In failed by username as jutjtuj
+20221017 17:30:08 INFO  [main] Main Main.java66 - Log-In failed by username as tu
+20221017 17:30:08 INFO  [main] Main Main.java66 - Log-In failed by username as jut
+20221017 17:30:09 INFO  [main] Main Main.java66 - Log-In failed by username as jyu
+20221017 17:30:12 INFO  [main] Main Main.java66 - Log-In failed by username as t
+20221017 17:30:23 INFO  [main] Main Main.java43 - ali@123 Logged-In Successfully
+20221017 17:31:16 INFO  [main] Main Main.java43 - ali@123 Logged-In Successfully
+20221017 17:31:48 INFO  [main] Main Main.java43 - ali@123 Logged-In Successfully
+20221017 17:39:21 INFO  [main] Main Main.java43 - ali@123 Logged-In Successfully
+20221017 17:40:28 INFO  [main] Main Main.java43 - ali@123 Logged-In Successfully
+20221017 17:42:37 INFO  [main] Main Main.java43 - ali@123 Logged-In Successfully
+20221017 17:43:00 INFO  [main] Main Main.java43 - ali@123 Logged-In Successfully
+20221017 17:43:25 INFO  [main] Main Main.java43 - ali@123 Logged-In Successfully
+20221017 17:44:08 INFO  [main] Main Main.java93 - Log-In failed by username as 1
+20221017 17:44:16 INFO  [main] Main Main.java43 - ali@123 Logged-In Successfully
+20221017 17:44:20 WARN  [main] Main Main.java75 - Stock is gone below which is 8
